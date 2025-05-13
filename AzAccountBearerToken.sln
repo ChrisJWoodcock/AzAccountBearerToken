@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzAccountBearerToken", "AzAccountBearerToken\AzAccountBearerToken.csproj", "{97A171D8-E695-40CC-9760-4FC61E1DB802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A171D8-E695-40CC-9760-4FC61E1DB802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A171D8-E695-40CC-9760-4FC61E1DB802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A171D8-E695-40CC-9760-4FC61E1DB802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A171D8-E695-40CC-9760-4FC61E1DB802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB66BE92-FF5E-460A-B21E-E6CEC4C9F632}
+	EndGlobalSection
+EndGlobal
